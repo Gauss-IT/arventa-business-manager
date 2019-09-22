@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apps", "apps", "{D28DAE98-12CA-499D-9C48-6DF30172D2C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A9EA2056-D401-4025-90EF-315F9D3561AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{95291DF9-D8D9-4225-9683-F51CACAE4A69}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arventa.BM.BusinessApi", "apps\Arventa.BM.BusinessApi\Arventa.BM.BusinessApi.csproj", "{9786CBF3-3A7A-4268-9735-A43D8C45E9A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9786CBF3-3A7A-4268-9735-A43D8C45E9A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9786CBF3-3A7A-4268-9735-A43D8C45E9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9786CBF3-3A7A-4268-9735-A43D8C45E9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9786CBF3-3A7A-4268-9735-A43D8C45E9A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9786CBF3-3A7A-4268-9735-A43D8C45E9A1} = {D28DAE98-12CA-499D-9C48-6DF30172D2C5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94F9B57A-2452-4B71-86F8-D98BE0D0C21F}
+	EndGlobalSection
+EndGlobal
